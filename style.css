@@ -7,9 +7,9 @@
 }
 @media screen and (min-width:991px){
     .myButton:hover{
-        background-color: blue;
+        background-color: #9FE2BF;
     }
 }
 .myButtonHover:hover {
-    background-color: blue;
+    background-color: #9FE2BF;
 }
